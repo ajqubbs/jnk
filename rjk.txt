@@ -1,0 +1,36 @@
+{
+
+"公告":"本软件为青云软件库，欢迎您的使用，搭建可以联系作者",
+
+"线报集合": [ 
+{ "标题": "热门影视","简介": "热门影视随便看","图片": "https://tv.puui.qpic.cn/tv/0/mz_tv_image_frontend_442f1e-8_1193183666_1746956867738854_pic_1080x607/384?max_age=7776000", "链接": "https://m.v.qq.com/x/m/channel/figure/index", "跳转": "内置" },
+
+ { "标题": "小说网", "简介": "各类小说尽情看", "图片": "https://static.zongheng.com/upload/cover/bc/7f/bc7fd66a75011bd8a7115eae5fd514b5.jpeg", "链接": "https://m.zongheng.com", "跳转": "内置" }, 
+ 
+ { "标题": "壁纸网", "简介": "超多高清壁纸", "图片": "https://pic.dmjnb.com/pic/100dc4c31a4cfa4c6d3def642fb2efaf?imageMogr2/thumbnail/x380/quality/90!", "链接": "https://www.bizhi99.com/", "跳转": "内置" }
+  ],
+
+"广告集合": [ 
+{ "图片": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745833161584/2.png", "链接": "https://share.weiyun.com/N7iPX7eM", "跳转": "内置" },
+
+ { "图片": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745833505066/6.png", "链接": "https://www.wjx.cn/vm/QiwVwFJ.aspx#", "跳转": "内" }, 
+ 
+ { "图片": "http://rjk.ajks.top/uploads/BBS_IMG/682a91a1d7f28.png", "链接": "http://rjk.ajks.top/", "跳转": "内置" },
+ 
+  { "图片": "http://rjk.ajks.top/uploads/BBS_IMG/682a91c10a60b.png", "链接": "https://www.wjx.cn/vm/QiwVwFJ.aspx#", "跳转": "内置" } 
+  ],
+
+
+"软件标签":"影视软件|音乐软件|漫画软件|游戏小说|实用软件", 
+
+"0":{ "链接":"https://wwac.lanzouj.com/b00ok3w0f" }, 
+
+"1":{ "链接":"https://wwm.lanzoum.com/b04q42bad" }, 
+
+"2":{"链接":"https://pan.lanzoui.com/b828085" }, 
+
+"3":{ "链接":"https://wxrjs.lanzoui.com/b958265"}, 
+
+"4":{"链接":"https://wwm.lanzoum.com/b04q42b4h" }
+
+} 
